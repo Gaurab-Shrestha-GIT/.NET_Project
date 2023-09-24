@@ -1,0 +1,15 @@
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\bin\Debug\net6.0\WebMVC.Data.exe
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\bin\Debug\net6.0\WebMVC.Data.deps.json
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\bin\Debug\net6.0\WebMVC.Data.runtimeconfig.json
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\bin\Debug\net6.0\WebMVC.Data.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\bin\Debug\net6.0\WebMVC.Data.pdb
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.csproj.AssemblyReference.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.AssemblyInfoInputs.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.AssemblyInfo.cs
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.csproj.CoreCompileInputs.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\refint\WebMVC.Data.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.pdb
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\WebMVC.Data.genruntimeconfig.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\WebMVC.Data\obj\Debug\net6.0\ref\WebMVC.Data.dll

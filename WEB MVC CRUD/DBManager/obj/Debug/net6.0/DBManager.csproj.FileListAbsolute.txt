@@ -1,0 +1,15 @@
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\bin\Debug\net6.0\DBManager.exe
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\bin\Debug\net6.0\DBManager.deps.json
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\bin\Debug\net6.0\DBManager.runtimeconfig.json
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\bin\Debug\net6.0\DBManager.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\bin\Debug\net6.0\DBManager.pdb
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.csproj.AssemblyReference.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.AssemblyInfoInputs.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.AssemblyInfo.cs
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.csproj.CoreCompileInputs.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\refint\DBManager.dll
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.pdb
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\DBManager.genruntimeconfig.cache
+D:\Project\Web MVC CRUD\WEB MVC CRUD\DBManager\obj\Debug\net6.0\ref\DBManager.dll
